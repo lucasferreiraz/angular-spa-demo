@@ -16,7 +16,7 @@
             </div>
 
             <div *ngIf="!product.promocao" class="card-body">
-                <p>{{product.valor | currency:'BRL':'symbol':'1.2-2':'pt' }}</p>
+                <h4>{{product.valor | currency:'BRL':'symbol':'1.2-2':'pt' }}</h4>
             </div>
 
             <div *ngIf="product.promocao" class="card-body">
