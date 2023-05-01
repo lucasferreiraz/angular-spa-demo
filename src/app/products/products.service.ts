@@ -5,7 +5,7 @@ import { Observable } from "rxjs";
 
 @Injectable()
 export class ProductService {
-  protected UrlServiceV1: string = "http://localhost:3000/"
+  protected UrlServiceV1: string = "https://angular-spa-demo-json.vercel.app/"
 
   constructor(private http: HttpClient) {
   }
