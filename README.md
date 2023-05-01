@@ -62,7 +62,9 @@ $ json-server products.json
 
 -  [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
-## <p>📷 Demonstration </p>
+## <p>📷 [Demonstration](https://angular-spa-demo.vercel.app/) </p>
+
+To access the demo in production [click here](https://angular-spa-demo.vercel.app/).
 
 ### Home
 ![image](./media/home.png)
